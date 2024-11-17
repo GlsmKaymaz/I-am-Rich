@@ -1,4 +1,4 @@
-Yeni Başlangıçlara :)
+Yeni Başlangıçlara;
 
 Yatay Gelişim (Horizontal Development) yeni alanlara ilgim olduğundan dolayı gelişimi IOS alanına yönlendirerek farklı deneyimlere sahip olmak istiyorum.
 
